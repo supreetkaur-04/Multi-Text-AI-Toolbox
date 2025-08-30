@@ -1,8 +1,3 @@
-Nice 🚀 Since your project has evolved a lot, your **README.md** should also reflect the new features.
-Here’s an updated version tailored to your latest code:
-
----
-
 # 📚 LinguifyAI - Text Enhancement Suite
 
 **An all-in-one AI-powered toolkit for text enhancement — Summarize, Translate, Generate Questions, Check Grammar, Adjust Tone, Rewrite, Convert to Speech, and Chat with AI.**
@@ -90,6 +85,3 @@ Access it at: **[http://localhost:8501](http://localhost:8501)**
 
 🔥 With LinguifyAI, you now have a **complete text enhancement suite** running directly on your laptop — no external APIs, no subscription fees, and full control over your data.
 
----
-
-Do you want me to also **rename the repo on GitHub** from `Multi-Text-AI-Toolbox` → `LinguifyAI` to match your new app name, or keep the old repo name?
